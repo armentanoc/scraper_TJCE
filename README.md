@@ -4,7 +4,6 @@
 ![GitHub contributors](https://img.shields.io/github/contributors/scottydocs/README-template.md)
 ![GitHub stars](https://img.shields.io/github/stars/scottydocs/README-template.md?style=social)
 ![GitHub forks](https://img.shields.io/github/forks/scottydocs/README-template.md?style=social)
-![Twitter Follow](https://img.shields.io/twitter/follow/scottydocs?style=social)
 
 <p>Este é um projeto de Web Scraping que utiliza Flask e Beautiful Soup para construir uma API em Python para consultar e extrair informações sobre processos judiciais, em dois graus diferentes, no sistema processual ESAJ do Tribunal de Justiça do Estado do Ceará, retornando essas informações em formato JSON.</p>
 
