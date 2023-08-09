@@ -3,8 +3,8 @@
 <a href='https://docs.python.org/3/' target="_blank"><img alt='python' src='https://img.shields.io/badge/python-100000?style=plastic&logo=python&logoColor=white&labelColor=555555&color=0088CC'/></a>
 <a href='https://flask.palletsprojects.com/en/2.3.x/' target="_blank"><img alt='flask' src='https://img.shields.io/badge/flask-100000?style=plastic&logo=flask&logoColor=white&labelColor=555555&color=3cabc3'/></a>
 <a href='https://www.json.org/json-en.html' target="_blank"><img alt='json' src='https://img.shields.io/badge/JSON-100000?style=plastic&logo=json&logoColor=white&labelColor=555555&color=191919'/></a>
-<a href='https://www.crummy.com/software/BeautifulSoup/bs4/doc/' target="_blank"><img alt='' src='https://img.shields.io/badge/beautifulsoup-100000?style=plastic&logo=&logoColor=white&labelColor=555555&color=181819'/></a>
 <a href='https://code.visualstudio.com/docs' target="_blank"><img alt='visual studio code' src='https://img.shields.io/badge/VSCode-100000?style=plastic&logo=visual studio code&logoColor=white&labelColor=555555&color=007ACC'/></a>
+<a href='https://www.crummy.com/software/BeautifulSoup/bs4/doc/' target="_blank"><img alt='' src='https://img.shields.io/badge/beautifulsoup-100000?style=plastic&logo=&logoColor=white&labelColor=555555&color=181819'/></a>
 <a href='https://docs.python.org/3/library/re.html' target="_blank"><img alt='regex' src='https://img.shields.io/badge/regex-100000?style=plastic&logo=regex&logoColor=white&labelColor=555555&color=8728B3'/></a>
 
 <p>Este é um projeto de Web Scraping que utiliza Flask e Beautiful Soup para construir uma API em Python para consultar e extrair informações sobre processos judiciais, em dois graus diferentes, no sistema processual ESAJ do Tribunal de Justiça do Estado do Ceará, retornando essas informações em formato JSON.</p>
