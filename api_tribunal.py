@@ -52,7 +52,7 @@ def consultar_processo():
         data = movimentacoes_1grau[i].text.strip()
         data_tratada = re.sub(r"\n?\t?\r?", "", data)
         descricao = movimentacoes_1grau[i].find_next_sibling(class_="descricaoMovimentacao").text.strip()
-        descricao_tratada = re.sub(r"\n?\t?\r?"", "", descricao)
+        descricao_tratada = re.sub(r"\n?\t?\r?", "", descricao)
 
         movimentacoes.append({
             'Data': data_tratada,
