@@ -17,8 +17,10 @@ Antes de começar, assegure-se de atender aos seguintes requisitos
 <p>
 
 * É necessário ter o `python` instalado na máquina
+* O Flask suporta Python 3.8 e versões mais novas
 * É necessário salvar os arquivos na mesma pasta
-* As demais instalações serão feitas com a criação de um ambiente virtual `venv`, no qual serão atendidos os demais requisitos constantes no  `requirements.txt` 
+* As demais instalações serão feitas com a criação de um ambiente virtual `venv`, no qual serão atendidos os demais requisitos constantes no  `requirements.txt`
+* As instruções abaixo consideram que o PATH para o Python é `python` no macOS/linux e `py` no Windows; note que é possível que o padrão demande a versão específica, sendo necessário adaptar para `python3` e `py3`, por exemplo, se não houver um alias configurado.
 
 <h2>Instalando o projeto</h2>
 
