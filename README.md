@@ -50,7 +50,7 @@ python api_tribunal.py
 
 Deve aparecer a mensagem `Running on http://127.0.0.1:5000`, que indica que o servidor Flask está em execução.
 
-5) Abra outro terminal. Se necessário, ative novamente o ambiente virtual (2). Rode o arquivo `consultar_processo.py``
+5) Abra outro terminal. Se necessário, ative novamente o ambiente virtual (2). Rode o arquivo `consultar_processo.py`
 
 ```shell
 source venv/bin/activate
