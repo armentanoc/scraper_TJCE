@@ -1,4 +1,4 @@
-<h1 align="left"> Crawler ESAJ TJ-CE</h1>
+<h1 align="left"> Scraper ESAJ TJ-CE</h1>
 
 <a href='https://docs.python.org/3/' target="_blank"><img alt='python' src='https://img.shields.io/badge/python-100000?style=plastic&logo=python&logoColor=white&labelColor=555555&color=0088CC'/></a>
 <a href='https://flask.palletsprojects.com/en/2.3.x/' target="_blank"><img alt='flask' src='https://img.shields.io/badge/flask-100000?style=plastic&logo=flask&logoColor=white&labelColor=555555&color=3cabc3'/></a>
